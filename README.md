@@ -6,7 +6,7 @@
   - You may get a pop up that asks if you want to open Github Desktop. You do.
   - Your Github Desktop app will open
   - It should take you to the URL Tab. Click the URL tab if it doesn't.
-3. Go to the section where it says "local path" click choose to select a folder on your computer where you would like your repository to be. i.e. Documents or Desktop.
+3. Go to the section where it says "local path" click "choose" to select a folder on your computer where you would like your repository to be. i.e. Documents or Desktop.
 4. You should also change your folder name to your project's name. You can do that by editing the folder path.  For Example: /Users/victorialarson/Desktop/GitHub/__Tori_Project_1__
 5. Click "clone"
   - This will clone your repository to your local computer and will rename it to your desired folder name.
