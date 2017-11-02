@@ -1,31 +1,69 @@
-### Instructions for cloning this project template
-
+## Instructions for cloning a project template
+### Putting the repository on your desktop
 1. Follow this [Link](https://github.com/ToriLarson/BDA_Project_Template)
 2. On the right hand side of the screen click the green "Clone or download" drop down.
 3. Click "open in Desktop"
   - Your Github Desktop app will open
   - Make sure the "URL" tab is in use.
-4. Go to the section where it says "local path" and choose where you would like your repository to be. ie Documents or Desktop.
-5. Click "clone"
-  - This will clone your repository to your local computer and will move it to the folder that you have directed it to.
-6. You should now have the repository folder in the location that you placed it.
-7. You can now push the folder to your own personal github!
-8. Before pushing the repository you must first commit the change. In the bottom left hand corner of the page type something in the summary section such as "testing". You will then be able to commit the changes.
-9. Once the work is committed - go to the section in the top middle of the desktop app and click "push orgin"
-10. Congratulations! you have pushed your repository to your github page! You can now go to your github site and look at your work online!
+4. Go to the section where it says "local path" and choose where you would like your repository to be. i.e. Documents or Desktop.
+5. This is also where you will change the folder name. for Example: /Users/victorialarson/Desktop/GitHub/__Tori_Project_1__
+6. Click "clone"
+  - This will clone your repository to your local computer and will rename it to your desired folder name.
+
+### Customizing your repository
+##### Since you will be pushing this folder to your own github website you will need to have a repository to place it into.
+1. Go to your personal github account - https//github.com/YourUsername
+2. In the top right hand corner click the __+__ sign
+3. Click "new repository"
+4. We will now make a repository name. We suggest making a name that corresponds with your project. ie Tori_Project_1.
+
+    - __Note:__ this does not have to be the same as your local folder name but might make it easier to remember.
+
+5. Click "create repository"
+
+  - No need to have a readme.md file. This one was created for you!
+
+6. You will be taken to a page that says "Quicksetup - if you've done this kind of thing before"
+7. Underneath this heading you will see "HTTP" - on the right hand side click the copy to clipboard icon.
+8. Go back to your Github desktop app.
+
+### Linking your local folder and customized github repository
+1. In your github desktop task bar click on __repository > repository settings__. Under the "Remote" tab paste your personalized repository.
+
+      For Example:
+      https//github.com/ToriLarson/Tori_Project_1.git
+
+2. Click "save"  
+2. You can now push the folder to your own personal github!
+2. In the top middle of the page click "fetch orgin"  
+3. Wait for it to load and then click "publish"
+4. This will publish your local work to your  github repository!
+
+__You did it! Good job!__
+
+### Making changes to your repository.
+#### You are now ready to make changes to your project.
+1. We have created a template for you at the bottom of this tutorial, so eventually you will delete these instructions __but not yet__.
+2. In the area below these instructions - fill in the blanks explaining your project ie title, date, author, and project description.
+3. Save your work!
+3. Once you've filled in these areas (and deleted these instructions) you will be ready to commit and push your repository.
+4. Go to the Github desktop app and you will now see that your changes are being tracked (if you don't see any changes it is probably because you didn't save your work).
+  -  Words highlighted in red have been changed or deleted.
+  - Words highlighted in green are the changes.
+5. In the bottom left hand corner of the page type something in the "summary" section such as "test 1". You can also type information in the comments section, but you don't have to. You will then be able to commit the changes.
+6. Once the work is committed - go to the section in the top middle of the desktop app and click "push origin"
+7. Congratulations! you have pushed your edited repository to your github page! You can now go to your github site and look at your work online!
+8. Now is the time to delete these instructions.
 
 
-__Note:__ Below is the template you will be using for all of your projects! Just clone this tutorial every time you start a new project! But be sure to delete the above instructions before turning in your project!
+__Note:__ Below is the template you will be using for all of your projects. Just clone this tutorial every time you start a new one
 
 
-
-
-
-### [Insert Title Here] For example: Chicken wing spans in relation to their Jurassic Ancestors
+### [Insert Title Here] For example: Chicken wing-spans in relation to their Jurassic Ancestors
 
 [Insert Date Here]:
 
 **Author:** [Author Name Here]
 
 
-__*Project Description:*__ [Project Description Here] For example: Analyzing present day *Chicken's* wing spans in comparison to Jurassic era *Dinosaurs.*
+__*Project Description:*__ [Project Description Here] For example: Analyzing present day *Chicken's* wing-spans in comparison to Jurassic era *Dinosaurs.*
